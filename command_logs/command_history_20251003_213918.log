@@ -1,0 +1,15 @@
+[2025-10-03 21:39:18] [/workspaces/In-Class-Exercise-1] source .devcontainer/shell.sh
+[2025-10-03 21:41:53] [/workspaces/In-Class-Exercise-1] ls -a /
+[2025-10-03 21:42:13] [/workspaces/In-Class-Exercise-1] ls --all /
+[2025-10-03 21:42:34] [/workspaces/In-Class-Exercise-1] man ls
+[2025-10-03 21:44:26] [/workspaces/In-Class-Exercise-1] man cp
+[2025-10-03 21:44:46] [/workspaces/In-Class-Exercise-1] cp -i README.md README_COPY.MD
+[2025-10-03 21:44:48] [/workspaces/In-Class-Exercise-1] ls
+[2025-10-03 21:45:19] [/workspaces/In-Class-Exercise-1] apropos
+[2025-10-03 21:45:28] [/workspaces/In-Class-Exercise-1] apropos password
+[2025-10-03 21:45:48] [/workspaces/In-Class-Exercise-1] apropos compress
+[2025-10-03 21:46:54] [/workspaces/In-Class-Exercise-1] echo $PATH
+[2025-10-03 21:47:04] [/workspaces/In-Class-Exercise-1] echo $HOME
+[2025-10-03 21:47:22] [/workspaces/In-Class-Exercise-1] echo $PWD
+[2025-10-03 21:47:28] [/workspaces/In-Class-Exercise-1] date
+[2025-10-03 21:47:34] [/workspaces/In-Class-Exercise-1] date
